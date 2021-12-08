@@ -1,0 +1,28 @@
+.header-banner__button {
+    padding: 0.35em 1.2em;
+    border: 0.1em solid white;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 0.12em;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    transition: color 0.7s;
+    background-color: transparent;
+  }
+  
+  .header-banner__button:hover {
+    color: black;
+    background-color: white;
+    cursor: pointer;
+  }
+  
+  .header-banner__card-button {
+    border-color: black;
+    color: black;
+  }
+  
+  .header-banner__card-button:hover {
+    background-color: black;
+    color: white;
+  }
+  
