@@ -1,5 +1,6 @@
-.header-banner__button {
-    padding: 0.35em 1.2em;
+
+  .button {
+    padding: 0.5em 2em;
     border: 0.1em solid white;
     margin: 0 0.3em 0.3em 0;
     border-radius: 0.12em;
@@ -10,19 +11,20 @@
     background-color: transparent;
   }
   
-  .header-banner__button:hover {
+  .button:hover {
     color: black;
     background-color: white;
     cursor: pointer;
   }
   
-  .header-banner__card-button {
+  .button-card {
     border-color: black;
     color: black;
   }
   
-  .header-banner__card-button:hover {
+  .button-card:hover {
     background-color: black;
     color: white;
   }
+  
   
